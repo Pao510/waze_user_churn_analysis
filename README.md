@@ -3,7 +3,6 @@
 ## 📌 Project Overview  
 This project analyzes user churn in Waze’s driver dataset. The goal is to investigate behavioral patterns that differentiate **churned** vs. **retained** users and provide actionable insights to improve retention strategies.  
 
-The work was completed as part of **Google Data Analytics – Course 2: Get Started with Python**.  
 
 ---
 
